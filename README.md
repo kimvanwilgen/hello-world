@@ -1,6 +1,3 @@
-# hello-world
-First repo to learn how the GitHub workflow works
-
 # Kim van Wilgen
 In my role as Head of software development at ANVA I’m responsible for all software development. I’m an innovator and think out-of-the-box. When working on new topics or technologies I get passionate about it and drive change. With that passion, I’m able to move people and coach them in the transition with attention, feedback and humor. I learn quickly and can oversee things from different perspectives. I have in-depth knowledge of the financial services industry and a good overview of modern technologies and architectures in IT. Coping with the political environment of senior management comes natural to me and I can be persuasive, also for people who are higher in hierarchy. I use this to get things done as I’m particularly result oriented. 
 
